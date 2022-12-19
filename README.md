@@ -35,3 +35,7 @@ export function getLevel(userId) {
 Сделайте моки для функции `fetchData` и напишите тесты таким образом, чтобы обеспечить 100% покрытие тестами функции `getLevel` по строкам.
 
 **Обратите внимание**: тесты вам надо писать для функции `getLevel`
+
+---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/t9q0xyir8da61mdy?svg=true)](https://ci.appveyor.com/project/Turovae/test-ci-mocking)
