@@ -37,5 +37,12 @@ export function getLevel(userId) {
 **Обратите внимание**: тесты вам надо писать для функции `getLevel`
 
 ---
+## Ссылки на выполненные задачи блока Unit-тестирование
+
+1. [Чистые функции](https://github.com/Turovae/test-ci-clear-function)
+2. [Matchers](https://github.com/Turovae/test-ci-matchers)
+3. [Mocking](https://github.com/Turovae/test-ci-mocking)
+
+---
 
 [![Build status](https://ci.appveyor.com/api/projects/status/t9q0xyir8da61mdy?svg=true)](https://ci.appveyor.com/project/Turovae/test-ci-mocking)
